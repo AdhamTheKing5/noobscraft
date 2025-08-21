@@ -1,0 +1,29 @@
+Dedicated_Server.txt
+[2025-08-21 04:48:27:775 INFO] Starting Server
+[2025-08-21 04:48:27:775 INFO] Version: 1.21.92.1
+[2025-08-21 04:48:27:775 INFO] Session ID: fdbb3b3f-f005-437a-82ca-50bef84d61c2
+[2025-08-21 04:48:27:775 INFO] Build ID: 34417687
+[2025-08-21 04:48:27:775 INFO] Branch: r/21_u9
+[2025-08-21 04:48:27:775 INFO] Commit ID: 7473620acd458b6dc1885615e752aad5c2877b76
+[2025-08-21 04:48:27:775 INFO] Configuration: Publish
+[2025-08-21 04:48:27:775 INFO] Level Name: Bedrock level
+[2025-08-21 04:48:27:776 INFO] No CDN config file found for dedicated server
+[2025-08-21 04:48:27:776 INFO] Game mode: 0 Survival
+[2025-08-21 04:48:27:776 INFO] Difficulty: 1 EASY
+[2025-08-21 04:48:27:777 INFO] Content logging to console is enabled.
+[2025-08-21 04:48:27:777 INFO] AuthHelper loading cert AppCertificate.pfx
+[2025-08-21 04:48:27:777 WARN] AuthHelper could not find cert
+[2025-08-21 04:48:28:209 INFO] Opening level 'worlds/Bedrock level/db'
+[2025-08-21 04:48:28:218 INFO] [SERVER] Pack Stack - None
+[2025-08-21 04:48:28:910 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-08-21 04:48:28:910 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-08-21 04:48:28:935 INFO] Server started.
+[2025-08-21 04:48:28:935 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-08-21 04:48:28:935 INFO] Server Telemetry is currently not enabled. 
+[2025-08-21 04:48:28:935 INFO] Enabling this telemetry helps us improve the game.
+[2025-08-21 04:48:28:935 INFO] 
+[2025-08-21 04:48:28:935 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-08-21 04:48:28:935 INFO] to the server.properties file in the handheld/src-server directory
+[2025-08-21 04:48:28:935 INFO] ======================================================
+[2025-08-21 04:50:22:261 INFO] Server stop requested.
+[2025-08-21 04:50:22:273 INFO] Stopping server...
