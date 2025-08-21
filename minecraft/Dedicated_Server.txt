@@ -1,0 +1,4 @@
+Dedicated_Server.txt
+[2025-08-21 05:38:46:995 INFO] Player disconnected: Akagami4482, xuid: 2535431953217025, pfid: 11eeacce5491ccb9
+[2025-08-21 05:41:23:484 INFO] Server stop requested.
+[2025-08-21 05:41:23:516 INFO] Stopping server...
