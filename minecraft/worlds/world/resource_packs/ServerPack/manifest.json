@@ -1,0 +1,20 @@
+
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by Adham",
+        "name": "Server Pack RP",
+        "uuid": "a5243082-4f2b-4317-1234-cce54a4a7123",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 21, 90 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "49c0f931-fc60-439c-1234-d430a5002123",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}]
+}

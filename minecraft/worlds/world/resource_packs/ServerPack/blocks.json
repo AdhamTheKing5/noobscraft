@@ -1,0 +1,194 @@
+{
+  "format_version": [ 1, 0, 0 ],
+  "gao:connected_glass": {
+    "textures": "gao:cglass_base",
+    "sound": "glass"
+  },
+  "gao:connected_white_glass": {
+    "textures": "gao:cglass_base_white",
+    "sound": "glass"
+  },
+  "gao:connected_light_gray_glass": {
+    "textures": "gao:cglass_base_light_gray",
+    "sound": "glass"
+  },
+  "gao:connected_gray_glass": {
+    "textures": "gao:cglass_base_gray",
+    "sound": "glass"
+  },
+  "gao:connected_black_glass": {
+    "textures": "gao:cglass_base_black",
+    "sound": "glass"
+  },
+  "gao:connected_brown_glass": {
+    "textures": "gao:cglass_base_brown",
+    "sound": "glass"
+  },
+  "gao:connected_red_glass": {
+    "textures": "gao:cglass_base_red",
+    "sound": "glass"
+  },
+  "gao:connected_orange_glass": {
+    "textures": "gao:cglass_base_orange",
+    "sound": "glass"
+  },
+  "gao:connected_yellow_glass": {
+    "textures": "gao:cglass_base_yellow",
+    "sound": "glass"
+  },
+  "gao:connected_lime_glass": {
+    "textures": "gao:cglass_base_lime",
+    "sound": "glass"
+  },
+  "gao:connected_green_glass": {
+    "textures": "gao:cglass_base_green",
+    "sound": "glass"
+  },
+  "gao:connected_cyan_glass": {
+    "textures": "gao:cglass_base_cyan",
+    "sound": "glass"
+  },
+  "gao:connected_light_blue_glass": {
+    "textures": "gao:cglass_base_light_blue",
+    "sound": "glass"
+  },
+  "gao:connected_blue_glass": {
+    "textures": "gao:cglass_base_blue",
+    "sound": "glass"
+  },
+  "gao:connected_purple_glass": {
+    "textures": "gao:cglass_base_purple",
+    "sound": "glass"
+  },
+  "gao:connected_magenta_glass": {
+    "textures": "gao:cglass_base_magenta",
+    "sound": "glass"
+  },
+  "gao:connected_pink_glass": {
+    "textures": "gao:cglass_base_pink",
+    "sound": "glass"
+  },
+  "gao:connected_tinted_glass": {
+    "textures": "gao:cglass_base_tinted",
+    "sound": "glass"
+  },
+
+  "gao:connected_glass_pane": {
+    "textures": "gao:cglass_base",
+    "sound": "glass"
+  },
+  "gao:connected_white_glass_pane": {
+    "textures": "gao:cglass_base_white",
+    "sound": "glass"
+  },
+  "gao:connected_light_gray_glass_pane": {
+    "textures": "gao:cglass_base_light_gray",
+    "sound": "glass"
+  },
+  "gao:connected_gray_glass_pane": {
+    "textures": "gao:cglass_base_gray",
+    "sound": "glass"
+  },
+  "gao:connected_black_glass_pane": {
+    "textures": "gao:cglass_base_black",
+    "sound": "glass"
+  },
+  "gao:connected_brown_glass_pane": {
+    "textures": "gao:cglass_base_brown",
+    "sound": "glass"
+  },
+  "gao:connected_red_glass_pane": {
+    "textures": "gao:cglass_base_red",
+    "sound": "glass"
+  },
+  "gao:connected_orange_glass_pane": {
+    "textures": "gao:cglass_base_orange",
+    "sound": "glass"
+  },
+  "gao:connected_yellow_glass_pane": {
+    "textures": "gao:cglass_base_yellow",
+    "sound": "glass"
+  },
+  "gao:connected_lime_glass_pane": {
+    "textures": "gao:cglass_base_lime",
+    "sound": "glass"
+  },
+  "gao:connected_green_glass_pane": {
+    "textures": "gao:cglass_base_green",
+    "sound": "glass"
+  },
+  "gao:connected_cyan_glass_pane": {
+    "textures": "gao:cglass_base_cyan",
+    "sound": "glass"
+  },
+  "gao:connected_light_blue_glass_pane": {
+    "textures": "gao:cglass_base_light_blue",
+    "sound": "glass"
+  },
+  "gao:connected_blue_glass_pane": {
+    "textures": "gao:cglass_base_blue",
+    "sound": "glass"
+  },
+  "gao:connected_purple_glass_pane": {
+    "textures": "gao:cglass_base_purple",
+    "sound": "glass"
+  },
+  "gao:connected_magenta_glass_pane": {
+    "textures": "gao:cglass_base_magenta",
+    "sound": "glass"
+  },
+  "gao:connected_pink_glass_pane": {
+    "textures": "gao:cglass_base_pink",
+    "sound": "glass"
+  },
+      "stone" : {
+    "sound" : "stone",
+    "textures" : "stone",
+    "blockshape": "visible"
+    },   "netherrack" : {
+      "isotropic" : true,
+      "sound" : "netherrack",
+      "textures" : "netherrack",
+      "blockshape": "visible"
+   },
+   "soul_sand" : {
+      "sound" : "soul_sand",
+      "textures" : "soul_sand",
+      "blockshape": "visible"
+   },
+   "soul_soil" : {
+      "sound" : "soul_soil",
+      "textures" : "soul_soil",
+      "blockshape": "visible"
+   },
+   "basalt" : {
+      "sound" : "basalt",
+      "textures" : {
+         "down" : "basalt_top",
+         "side" : "basalt_side",
+         "up" : "basalt_top"
+      },
+      "blockshape": "visible"
+   },
+   "blackstone" : {
+      "sound" : "stone",
+      "textures" : {
+         "down" : "blackstone_top",
+         "side" : "blackstone",
+         "up" : "blackstone_top"
+      },
+      "blockshape": "visible"
+   },     "deepslate" : {
+        "isotropic" : {
+           "down" : true,
+           "up" : true
+        },
+        "sound" : "deepslate",
+        "textures" : {
+           "down" : "deepslate_top",
+           "side" : "deepslate",
+           "up" : "deepslate_top"
+        },
+        "blockshape": "visible"
+     }
+}

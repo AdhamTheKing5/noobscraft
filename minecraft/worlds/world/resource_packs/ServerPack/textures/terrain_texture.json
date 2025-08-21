@@ -1,0 +1,219 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        
+
+        "gao:cglass_base": {
+            "textures": "textures/gao/blocks/base/glass"
+        },
+        "gao:cglass_border": {
+            "textures": "textures/gao/blocks/border/glass"
+        },
+        "gao:cglass_pane": {
+            "textures": "textures/gao/blocks/gp_top/glass"
+        },
+
+
+
+        "gao:cglass_base_white": {
+            "textures": "textures/gao/blocks/base/white"
+        },
+        "gao:cglass_border_white": {
+            "textures": "textures/gao/blocks/border/white"
+        },
+        "gao:cglass_pane_white": {
+            "textures": "textures/gao/blocks/gp_top/white"
+        },
+
+
+        "gao:cglass_base_light_gray": {
+            "textures": "textures/gao/blocks/base/light_gray"
+        },
+        "gao:cglass_border_light_gray": {
+            "textures": "textures/gao/blocks/border/light_gray"
+        },
+        "gao:cglass_pane_light_gray": {
+            "textures": "textures/gao/blocks/gp_top/light_gray"
+        },
+
+
+
+        "gao:cglass_base_gray": {
+            "textures": "textures/gao/blocks/base/gray"
+        },
+        "gao:cglass_border_gray": {
+            "textures": "textures/gao/blocks/border/gray"
+        },
+        "gao:cglass_pane_gray": {
+            "textures": "textures/gao/blocks/gp_top/gray"
+        },
+
+
+
+        "gao:cglass_base_black": {
+            "textures": "textures/gao/blocks/base/black"
+        },
+        "gao:cglass_border_black": {
+            "textures": "textures/gao/blocks/border/black"
+        },
+        "gao:cglass_pane_black": {
+            "textures": "textures/gao/blocks/gp_top/black"
+        },
+
+
+
+        "gao:cglass_base_brown": {
+            "textures": "textures/gao/blocks/base/brown"
+        },
+        "gao:cglass_border_brown": {
+            "textures": "textures/gao/blocks/border/brown"
+        },
+        "gao:cglass_pane_brown": {
+            "textures": "textures/gao/blocks/gp_top/brown"
+        },
+
+
+
+        "gao:cglass_base_red": {
+            "textures": "textures/gao/blocks/base/red"
+        },
+        "gao:cglass_border_red": {
+            "textures": "textures/gao/blocks/border/red"
+        },
+        "gao:cglass_pane_red": {
+            "textures": "textures/gao/blocks/gp_top/red"
+        },
+
+
+
+        "gao:cglass_base_orange": {
+            "textures": "textures/gao/blocks/base/orange"
+        },
+        "gao:cglass_border_orange": {
+            "textures": "textures/gao/blocks/border/orange"
+        },
+        "gao:cglass_pane_orange": {
+            "textures": "textures/gao/blocks/gp_top/orange"
+        },
+
+
+
+        "gao:cglass_base_yellow": {
+            "textures": "textures/gao/blocks/base/yellow"
+        },
+        "gao:cglass_border_yellow": {
+            "textures": "textures/gao/blocks/border/yellow"
+        },
+        "gao:cglass_pane_yellow": {
+            "textures": "textures/gao/blocks/gp_top/yellow"
+        },
+
+
+
+        "gao:cglass_base_lime": {
+            "textures": "textures/gao/blocks/base/lime"
+        },
+        "gao:cglass_border_lime": {
+            "textures": "textures/gao/blocks/border/lime"
+        },
+        "gao:cglass_pane_lime": {
+            "textures": "textures/gao/blocks/gp_top/lime"
+        },
+
+
+
+        "gao:cglass_base_green": {
+            "textures": "textures/gao/blocks/base/green"
+        },
+        "gao:cglass_border_green": {
+            "textures": "textures/gao/blocks/border/green"
+        },
+        "gao:cglass_pane_green": {
+            "textures": "textures/gao/blocks/gp_top/green"
+        },
+
+
+
+        "gao:cglass_base_cyan": {
+            "textures": "textures/gao/blocks/base/cyan"
+        },
+        "gao:cglass_border_cyan": {
+            "textures": "textures/gao/blocks/border/cyan"
+        },
+        "gao:cglass_pane_cyan": {
+            "textures": "textures/gao/blocks/gp_top/cyan"
+        },
+
+
+
+        "gao:cglass_base_light_blue": {
+            "textures": "textures/gao/blocks/base/light_blue"
+        },
+        "gao:cglass_border_light_blue": {
+            "textures": "textures/gao/blocks/border/light_blue"
+        },
+        "gao:cglass_pane_light_blue": {
+            "textures": "textures/gao/blocks/gp_top/light_blue"
+        },
+
+
+
+        "gao:cglass_base_blue": {
+            "textures": "textures/gao/blocks/base/blue"
+        },
+        "gao:cglass_border_blue": {
+            "textures": "textures/gao/blocks/border/blue"
+        },
+        "gao:cglass_pane_blue": {
+            "textures": "textures/gao/blocks/gp_top/blue"
+        },
+
+
+
+        "gao:cglass_base_purple": {
+            "textures": "textures/gao/blocks/base/purple"
+        },
+        "gao:cglass_border_purple": {
+            "textures": "textures/gao/blocks/border/purple"
+        },
+        "gao:cglass_pane_purple": {
+            "textures": "textures/gao/blocks/gp_top/purple"
+        },
+
+
+
+        "gao:cglass_base_magenta": {
+            "textures": "textures/gao/blocks/base/magenta"
+        },
+        "gao:cglass_border_magenta": {
+            "textures": "textures/gao/blocks/border/magenta"
+        },
+        "gao:cglass_pane_magenta": {
+            "textures": "textures/gao/blocks/gp_top/magenta"
+        },
+
+
+
+        "gao:cglass_base_pink": {
+            "textures": "textures/gao/blocks/base/pink"
+        },
+        "gao:cglass_border_pink": {
+            "textures": "textures/gao/blocks/border/pink"
+        },
+        "gao:cglass_pane_pink": {
+            "textures": "textures/gao/blocks/gp_top/pink"
+        },
+
+
+
+        "gao:cglass_base_tinted": {
+            "textures": "textures/gao/blocks/base/tinted"
+        },
+        "gao:cglass_border_tinted": {
+            "textures": "textures/gao/blocks/border/tinted"
+        }
+    }
+  }
