@@ -1,4 +1,37 @@
 Dedicated_Server.txt
-[2025-08-21 05:38:46:995 INFO] Player disconnected: Akagami4482, xuid: 2535431953217025, pfid: 11eeacce5491ccb9
-[2025-08-21 05:41:23:484 INFO] Server stop requested.
-[2025-08-21 05:41:23:516 INFO] Stopping server...
+[2025-08-21 19:24:30:485 INFO] Starting Server
+[2025-08-21 19:24:30:485 INFO] Version: 1.21.92.1
+[2025-08-21 19:24:30:485 INFO] Session ID: e41dc693-c6f7-4bbd-92c5-9d48787da137
+[2025-08-21 19:24:30:485 INFO] Build ID: 34417687
+[2025-08-21 19:24:30:485 INFO] Branch: r/21_u9
+[2025-08-21 19:24:30:485 INFO] Commit ID: 7473620acd458b6dc1885615e752aad5c2877b76
+[2025-08-21 19:24:30:485 INFO] Configuration: Publish
+[2025-08-21 19:24:30:486 INFO] Level Name: world
+[2025-08-21 19:24:30:487 INFO] No CDN config file found for dedicated server
+[2025-08-21 19:24:30:487 INFO] Game mode: 0 Survival
+[2025-08-21 19:24:30:487 INFO] Difficulty: 3 HARD
+[2025-08-21 19:24:30:489 INFO] Content logging to console is enabled.
+[2025-08-21 19:24:30:489 INFO] AuthHelper loading cert AppCertificate.pfx
+[2025-08-21 19:24:30:489 WARN] AuthHelper could not find cert
+[2025-08-21 19:24:31:031 INFO] Experiment(s) active: gtst
+[2025-08-21 19:24:31:032 INFO] Opening level 'worlds/world/db'
+[2025-08-21 19:24:31:551 INFO] [SERVER] Pack Stack - [00][Arabic Language Fix] [packid_ver][f792750e-e5b2-4ac2-ac31-5bb821d1db8f_1.6.11] [path][worlds/world/behavior_packs/ArabicBP-XltmC5bF.zip]
+[2025-08-21 19:24:31:551 INFO] [SERVER] Pack Stack - [01][Server Pack BP] [packid_ver][003c8116-fc11-4688-1234-ae2f3a8d3123_1.0.0] [path][worlds/world/behavior_packs/ServerPack-wjju3hVn.zip]
+[2025-08-21 19:24:31:765 INFO] [Scripting] ﺭﺍﺪﺻﺍ ﻰﻟﺍ ﺔﻴﺑﺮﻌﻟﺍ ﺔﻐﻠﻟﺍ ﺢﻻﺻﺍ ﺩﻮﻣ ﺚﻳﺪﺣ ﻢﺗ
+
+[2025-08-21 19:24:31:765 INFO] [Scripting] Arabic Language Processor v1.0.0 loaded!
+
+[2025-08-21 19:24:31:765 INFO] [Scripting] Supported Languages: Arabic, Persian, Urdu, Pashto, Kurdish, Sindhi, Uyghur
+
+[2025-08-21 19:24:33:356 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-08-21 19:24:33:356 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-08-21 19:24:33:383 INFO] Server started.
+[2025-08-21 19:24:33:383 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-08-21 19:24:33:383 INFO] Server Telemetry is currently not enabled. 
+[2025-08-21 19:24:33:383 INFO] Enabling this telemetry helps us improve the game.
+[2025-08-21 19:24:33:383 INFO] 
+[2025-08-21 19:24:33:383 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-08-21 19:24:33:383 INFO] to the server.properties file in the handheld/src-server directory
+[2025-08-21 19:24:33:383 INFO] ======================================================
+[2025-08-21 19:28:09:476 INFO] Server stop requested.
+[2025-08-21 19:28:09:494 INFO] Stopping server...
